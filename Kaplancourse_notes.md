@@ -1,4 +1,6 @@
-# KAPLAN MEDICAL
+KAPLAN MEDICAL
+
+# Epidemiology
 
 ## 1- EPIDEMIOLOGY
 Epidemic: Excess of expectations
@@ -107,7 +109,7 @@ Only look into the present column. TP / (TP+FN).
 Without screening test, 50%. Looking for 95% sensitivity at least.
 - Specificities: Identifying the non-disease.
 
-## 8 - Study design
+## 8 - Study design: Observational studies
 
 2 types of research study designs:
 * Observational studies
@@ -125,7 +127,7 @@ Sequence of possible studies: basic to advance
 	* N > 1.
     * Not what is unique to one, but common to all.
     * But there is no external comparison
-3. Cross-sectional/prevalence study
+3. Cross-sectional/**prevalence** study
 	* Who has and who doesn't have the disease
     * What factors are associated with them
     * **Prevalence**: common or rare?
@@ -163,4 +165,60 @@ Analytical techniques for **Case-control studies**
 * Odds ratio: increased odds of getting disease with exposure vs non-exposure to a risk factor
 	* AD/BC
 
-## 9 - 
+## 9 - Study design: Clinical trial
+
+### 9a. Phases of clinical trial
+
+* Phase 0: animals
+* Phase 1: Healthy volunteers (not vulnerable)
+* Phase 2: Protocol & dose levels (~100 patients)
+* Phase 3: Efficacy & side effects (~1,000 patients)
+    
+Last phase is a **post marketing survey** (US: FDA asks for 18 months later). Will take off the market if there are issues, or simply add some warnings (e.g. very serious side effects but very rare)
+
+### Basic components
+* **RCT**: Randomized controlled clinical trial
+	* control group: 
+    	* placebo (everything same but the drug)
+    	* standard of care: old drug instead of nothing
+    * random assignments.
+    * patient doesn't know what s/he is getting
+    
+* **Double-blind RCT**: RCT plus
+	* Neither researchers nor patient know who is in the controlled group.
+    
+* **Community trial**
+Try in real world circumstances
+
+* **Cross-over study**
+No group is untreated
+	* To assess subtle effects
+    * All patients are treated but at different times
+    * Especially interesting for chronic disease (HIV/AIDS)
+
+
+## 10 - Study designs: Bias in research
+
+### Definition
+
+  * Bias: deviation from the truth
+  * Reliability: consistency or precision
+  * Validity: accuracy or hitting the target
+
+### Types of bias
+
+* Selection bias: people are not random
+* Non-respondent bias: people who do not answer are very different from the ones that answer
+* Measurement bias: methods of gathering
+	* *Hawthorne effect*: observation itself changes the behaviour = need a control group
+* Experimenter expectancy: expectation affects the outcome 
+* Lead-time bias: confusion early detection with survival
+	* => Don't use how long people live after diagnosis; use life expectancy
+* Recall bias: patient cannot remember something
+* Late recall: most severe cases are already gone
+	* => Look at all the stages of the disease
+* Confounding bias: factors are related to each other
+	* => Do multiple studies; each study is confounding in different ways.
+* Design bias: non-comparable control group
+	* => Random assignment
+      
