@@ -1,16 +1,11 @@
 # KAPLAN MEDICAL
 
-# Table of contents
-1. [EPIDEMIOLOGY](##1- EPIDEMIOLOGY)
-2. [Some paragraph](## 2 - INCIDENCE & PREVALENCE)
-    1. [Sub paragraph](#subparagraph1)
-3. [Another paragraph](#paragraph2)
-
 ## 1- EPIDEMIOLOGY
 Epidemic: Excess of expectations
 Pandemic: worldwide epidemic
 Endemic: expected rate (constant rate)
-1 - b Epidemic
+
+### 1 - b Epidemic
 * Explosion source outbreak: Single source at a single point of time
 * Single source, over time
 * New disease outbreak: always epidemic, unless there is a constant number
@@ -112,3 +107,60 @@ Only look into the present column. TP / (TP+FN).
 Without screening test, 50%. Looking for 95% sensitivity at least.
 - Specificities: Identifying the non-disease.
 
+## 8 - Study design
+
+2 types of research study designs:
+* Observational studies
+= only observation
+* Experimental/Clinical trial studies
+= Intervention to test a change, modifying people's behaviour.
+
+### Observational studies
+Sequence of possible studies: basic to advance
+1. Case report.
+	* N = 1. Patient past, and symptoms
+    * First stop in knowledge progress
+    * Pb: only 1 patient, don't know what is indosynchratic from the patient
+2. Case series.
+	* N > 1.
+    * Not what is unique to one, but common to all.
+    * But there is no external comparison
+3. Cross-sectional/prevalence study
+	* Who has and who doesn't have the disease
+    * What factors are associated with them
+    * **Prevalence**: common or rare?
+    No incidence, no causality
+4. Case control study
+	* Compare people with or without disease
+    * Look for associated factor
+    * Retrospective studies
+    * No prevalence (onlu selected people)
+    * **Causality**: Facilitating agent
+    * What is shared among people with the disease and what is different from the non-diseased people
+5. Cohort study
+	* Best data, but expensive
+    * Instead of looking into the past, we look into real time
+    * Prospective study
+    * **Incidence rate**: watch disease develop
+    * No prevalence: don't have those that already have it
+    * **Causality**: yes
+	* Incidence data only
+    
+Analytical techniques for **cohort studies**:
+
+* Relative risk (RR):
+  * how much more likely?
+  * Incidence rate exposed/Incidence rate unexposed
+  * Statistical significance
+* Attributal risks (AR)
+  * Incidence rate exposed - Incidence rate unexposed
+  * how many more?
+  * Clinical significance
+
+Analytical techniques for **Case-control studies**
+	
+* Not incidence data
+* Odds ratio: increased odds of getting disease with exposure vs non-exposure to a risk factor
+	* AD/BC
+
+## 9 - 
