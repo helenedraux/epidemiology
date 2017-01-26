@@ -221,4 +221,87 @@ No group is untreated
 	* => Do multiple studies; each study is confounding in different ways.
 * Design bias: non-comparable control group
 	* => Random assignment
-      
+
+
+**EPIDEMIOLOGY DONE => Statistics!**
+
+# Statistics
+
+## Probability statistics
+
+* **Independent events**: combine events with multiplications:
+
+		A*B
+
+* **Mutually exclusive** (within a single trial): combine by addition: 
+	
+    	A+B
+
+* **Non-mutually exclusive**: Need to remove the common events (correction factor). e.g. diabet and obese.
+If we don't know what the common population is, we can say it is A*B, by considering they are independant events. 
+
+		A+B-A*B
+        
+## Descriptive Statistics
+
+Describe what you have, keeping the essentials with a summary using:
+
+* central tendency
+* variation
+
+=> abstract
+
+Much of the world is a central distribution (bell curve)
+
+### Central tendency
+
+3 M corporation:
+
+* Mean: average
+* Median: mid-point, 50th percentile
+* Mode: most frequent value
+    
+In a normal distribution, these 3 values are the same.
+
+* Skewed distributions: positive (tail is on the positive) or negative
+
+Order of the stats values in negative skewed: mean < median < mode. Always follow the tail.
+
+If mean > median = positive skew.
+
+### Measure of variability
+
+* Range:
+	* highest to lowest
+    * easy but 
+    	* use of only 2 data points
+        * regression towards the mean (extremes are likely to be less extreme the following time.)
+    * => range is not a stable indicator
+
+* Standard deviation
+
+		Sum((x-mean(x))^2)/(n-1)
+
+=> n-1 is due to the loss of degree of freedom when taking the mean
+
+### Percentages of the normal curve
+
+* **Symmetrical numbers**: equidistant above and below the mean.
+
+	_In a normal distribution_:
+	* within +/- standard deviation around the mean: 68%
+    * within +/- 2*standard deviation around the mean: 95.5%
+    * within +/- 3*standard deviation around the mean: 99.7%
+
+* **Asymetrical numbers**: percentage of cases within a discreet area as defined by standard deviation units
+	
+    In a normal distribution:
+	* between the mean and 1 standard deviation above the mean: 34%
+	* between 1 and 2*standard deviation above the mean 13.5%
+	* between 1 and 3*standard deviation above the mean .15%
+    
+*Total distribution should be 100%, but it adds as 99% due to roundings. It's just a help.*
+
+
+    
+    
