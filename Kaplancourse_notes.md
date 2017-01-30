@@ -302,6 +302,76 @@ If mean > median = positive skew.
     
 *Total distribution should be 100%, but it adds as 99% due to roundings. It's just a help.*
 
+# Inferential statistics
 
-    
-    
+**Descriptive stats**: Summarise or describe what we have
+
+**Inferential stats**: Going beyond what we have, making projections of what is true in the rest of the world => knowing for some predicts for all.
+
+=> Make generalisations based on science.
+
+Start with data on a _sample_ = projects for all _population_
+
+**Tools**: confidence intervals and p-value
+
+## Confidence intervals
+
+### Concept
+The exact number that we have is not reality, but *around* reality. 
+
+= Trade-off: precision for confidence. We use an interval where we think it is true: approximation.
+
+Focus is not on the number from the data.
+
+### Calculations
+
+	Mean +/- Z(S/sqrt(N))
+
+* S = standard deviation
+* N = size sample - the only one we can change: lever to change error.
+* SE = S/sqrtN: Standard error => better small, so N should be as large as possible and S small
+* Z = Standard score: made up distribution (mean = 1 and S = 1)
+
+The aim of the **standard score** is to facilitate understanding the numbers = >0 values are above the mean and S gives how far we are from the mean.
+
+* 95% => Z: +/-1.98
+* 99% => Z: +/-2.58
+
+SE gives the error: how large is the confidence of the model in comparison to reality
+
+Z: confidence = degree of certainty in CI
+
+### Interpreting
+
+Overlapping CI mean that we cannot say if two values are *significantly* different.
+
+CI: a way to estimate reality for the entire population
+
+## p-value
+
+### Null hypothesis
+
+*Null hypothesis* is the **opposite of what we are looking for** (e.g. the drug doesn't work) = differences between the two groups are due to random factors, chance, but not the drug.
+
+* One tailed null hypothesis: only 1 way to disprove it
+* Two tailed null hypothesis: 2 ways to disprove it
+
+### Analysis:
+
+Data => test => t, F, r, and chi2
+
+We're interested in p-value: supports decision making.
+
+* 1. Proposition
+* 2. Get empirical data
+* 3. Compare to decise.
+
+2 p-values: one decided (threshold) before getting the data, and computed p-value from the data. 
+
+Usually p less or equal to .05 (alpha criterion)
+= it corresponds to 95% change of being right.
+
+2 possible outcome: p is above or below the bar.
+* below: reject null hypothesis. Error of Type 1, alpha error => the drug works, with Type 1 error of p: possibility that it does not work.
+* above: do not reject null hypothese.  Error of Type 2, beta error. Don't get the Type 2 error from the p-value.
+
