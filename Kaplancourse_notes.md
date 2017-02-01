@@ -450,5 +450,44 @@ Usually p less or equal to .05 (alpha criterion)
 * Only nominal data
 * Any number of groups in variables
 
+# Ethics
 
+Decisions criteria to know what to decide.
 
+5 court cases
+
+## Karen Ann Quinian court case
+* Woman in a coma: should life support be terminated?
+* Doctor doesn't know
+* Father says to terminate life support
+
+=> court decided: the father (who knows the person best) knows best = **substituted judgment**
+
+BUT not next of kin!
+
+## Brother Knox
+If not possible to know the substituted judgment: Best interest standard
+
+* Benefit > Burden: do it
+* Benefit < Burden: don't do it
+* Doctor gets to chose because he is as good as anybody else.. not because he knows better.
+* Rational standard
+
+## Infant Doe
+
+* Best interest standards
+* Can be overrulled by foregoing lifesaving surgery
+
+## Roe v Wade
+
+* Abortion lifesaving decision
+* In the US: 
+	* Woman gets to chose for what to do about her body in the first semester
+    * 2nd and 3rd: no standard 
+
+* The patient decides: doctor lays out the options
+
+## Tarasoff Decision
+
+* Duty to warn/ Duty to protect
+* When warning, must not put the patient in danger either..
