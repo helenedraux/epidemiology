@@ -491,3 +491,88 @@ If not possible to know the substituted judgment: Best interest standard
 
 * Duty to warn/ Duty to protect
 * When warning, must not put the patient in danger either..
+
+## Rules
+
+### Rule1: Competent patients have the right to refuse medical treatment
+Patients have to *consent* to medical treatment.
+
+* patients have control over their bodies.
+* Not exceptions:
+	* Preserving life
+    * "It's like suicide"
+    * For the sake of 3rd parties
+    * Professional ethics
+
+### Rule2: Feeding tube is a medical treatment and can be withdrawn at the patient's request
+	* Competent patient can refuse even life-saving food and water
+    * Anorexia nevrosa are patient for which refusing food is part of the illness and therefore cannot be considered competent on that matter.
+
+
+### Rule3: Assume that the patient is competent, unless clear behavioral evidence against.
+	* suicide attempts
+    * gross psychosis
+    * cognitive capacity prevents communication
+
+/!\ Patients ARE competent, unless proven otherwise. The competence is not a medical decision, but a legal decision. Doctors therefore must use their best judgement on deciding if a person is competent. Incompetence must be proven: so if unsure, they are competence.
+
+### Rule4: Special rules apply with children
+
+* Under 18 is incompetent
+* Emancipated minor: 
+	* 13 to 17 yo, 
+    * living as adults
+    * => treat them as adults
+* Partial emancipation:
+	* 15 to 17 can make decisions for self in 4 areas:
+    	* STD treatment
+        * Substance abuse treatment
+        * Birth control
+        * Prenatal care
+
+Being married or in the army is considered as being emancipated, but not having children
+
+### Rule5: Parents cannot withhold life or limb saving treatment from their children.
+
+* But parents get to make all other decisions!
+* Although you only need one permission.. no need for consensus
+
+### Rule6: Avoid going to court: decision making should occur in clinical setting
+
+### Rule7: When surrogates make decisions for a patient, they should use the following criteria in this order:
+* Subjective standard (oral is enough)
+* Substituted judgment (knows the patient best)
+* Best interest standard (burden < benefits only)
+
+### Rule8: If patient is incompetent, physician may rely on advance directives
+* Oral is enough
+* Living will: 
+	* legal document
+    * limitations: 
+    	* only for end of life care
+    	* document is very old
+* Health power of attorney
+	* Designate who makes medical decisions in case of incapacity of expressing will
+    * for any medical decision
+    
+### Rule9: Cannot help a patient to die
+
+### Rule10: The physician decide when the patient is dead
+
+General rule: ECG flat for a day..
+ 
+# Physician patient rules
+
+Behaviour of physicians with patients. Rules about the rules in the US as a whole.
+
+* **Rule 1**: Patient is number 1. Your patient's convenience goes before you.
+* **Rule 2**: Always respond to te patient.
+* **Rule 3**: Tell the patient everything, even if they do not ask = everything you know should be passed on as soon as physician knows. 
+* **Rule 4**: Work on developing a good long-term relationship with the patient. Patients need to be treated completely, not just acute problems.
+* **Rule 5**: Listen, reflect, encourage. Patients need to talk so physicians learn more from their life - concern, life, .. 
+* **Rule 6**: Negotiate, rather than order
+* **Rule 7**: Respond to new people/information.
+	* Don't get carried away by momentum = be flexible.
+* **Rule 8**: Always admit that you make a mistake
+* **Rule 9**: (in the exam) Never pass-off. Deal with your patient. Don't do referral. 
+* **Rule 10**: Express empathy, give control. "I'm so sorry, what do you think we should do"
